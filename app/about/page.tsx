@@ -56,7 +56,7 @@ export default function AboutPage() {
           </div>
           <div className="relative aspect-video rounded-3xl overflow-hidden">
             <Image
-              src="/placeholder.svg?height=400&width=600"
+              src="https://pbs.twimg.com/profile_banners/940723416306540546/1735839573/1500x500"
               alt="TRIO Community"
               width={600}
               height={400}
