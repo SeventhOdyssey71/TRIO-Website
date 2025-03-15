@@ -8,7 +8,7 @@ import { Input } from "@/components/ui/input"
 export default function Home() {
   const teamMembers = [
     { name: "Cal", twitter: "cal_sosa", image: "https://pbs.twimg.com/profile_images/1886370422771326976/3BMCnufy_400x400.jpg" },
-    { name: "Currency", twitter: "currency_sui", image: "https://pbs.twimg.com/profile_images/1900320335569756160/MZXhehi8_400x400.jpg" },
+    { name: "Currency", twitter: "Currencyweirdo", image: "https://pbs.twimg.com/profile_images/1900320335569756160/MZXhehi8_400x400.jpg" },
     { name: "Jenny", twitter: "Rainbowsdotsui", image: "https://pbs.twimg.com/profile_images/1839656892768858112/7nsSFg8M_400x400.jpg" },
   ]
 
